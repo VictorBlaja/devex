@@ -6,7 +6,7 @@
 
 
 
-**Introduction**
+**Introduction**fff
 
 These &quot;Code with Us – Paid&quot; Process Terms (the &quot; **Process Terms**&quot;) govern Developers and Issuers that participate in the GC Developers&#39; Exchange, specifically in Code with Us - Paid Opportunities.  These Opportunities are designed to enable Issuers to obtain and pay for contributions to digital resources from Developers in a relatively quick and straightforward way. It is a mechanism to invite Developers to work on a simple but technical task.  All Developers will be given the opportunity to make Proposals to the Issuer regarding Opportunities.
 
